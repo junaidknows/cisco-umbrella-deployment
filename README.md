@@ -21,7 +21,7 @@ This batch script is built to cleanly uninstall any existing versions of Cisco S
 
 ### 📂 1. Required Files
 
-Place the following in a **shared folder accessible by all domain machines**, e.g., `\\srv-dc01\NETLOGON\Software`:
+Place the following in a **shared folder accessible by all domain machines**, e.g., `\\server-dc01\NETLOGON\Software`:
 
 - `cisco-secure-client-win-5.1.8.122-core-vpn-predeploy-k9.msi`
 - `cisco-secure-client-win-5.1.8.122-umbrella-predeploy-k9.msi`
